@@ -1,0 +1,10 @@
+{
+    "id": "String (e.g., 'MHLG_236') - Unique identifier for the mapping",
+    "title": "String - Evocative title for the specific game",
+    "layer": "String - Linguistic layer or cultural system (e.g., 'Yoruba', 'Sanskrit')",
+    "legacy_spanish_word": "String - The original Spanish concept being re-coded (e.g., 'Inteligencia')",
+    "new_kernel_concept": "String - The new concept replacing the legacy one (e.g., 'Ogbon')",
+    "mechanic": "String - The logic, rule, or metaphor of the new concept",
+    "quest_objective": "String - Specific goal for the user to achieve in consciousness",
+    "ollama_system_prompt": "String - Complete AI instructions for character embodiment and phase monitoring"
+}
