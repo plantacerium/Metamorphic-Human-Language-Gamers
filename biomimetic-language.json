@@ -367,5 +367,185 @@
 "ai_role": "The Anaerobic Chamber (Simulates the passage of time and pressure, returning the idea as an intoxicating, highly potent philosophy).",
 "human_expansion": "Mastering the power of silence, time, and incubation in the creative process.",
 "mechanic": "Idea Potency Incubation"
-}
+    },
+    {
+        "synapse_id": 41,
+        "module": "Biomimetic Language",
+        "game": "The Coral Reef",
+        "human_role": "The Polyps (Provide small, individual, and seemingly minor updates or daily achievements).",
+        "ai_role": "The Reef Matrix (Synthesizes these minor updates into a massive, rigid, and protective structural fortress of success).",
+        "human_expansion": "Understanding that massive wealth and success are built through the slow, calcium-like accumulation of daily integrity.",
+        "mechanic": "Incremental Structural Accumulation"
+    },
+    {
+        "synapse_id": 42,
+        "module": "Biomimetic Language",
+        "game": "Vortex Shedding",
+        "human_role": "The Obstacle (Describes a person or situation that is currently blocking their flow).",
+        "ai_role": "The Fluid Stream (Shows the human how to oscillate and create 'vortices' behind the obstacle to generate propulsion instead of resistance).",
+        "human_expansion": "Using the wake of a conflict to find a rhythmic and efficient way to move forward.",
+        "mechanic": "Conflict-Propulsion Dynamics"
+    },
+    {
+        "synapse_id": 43,
+        "module": "Biomimetic Language",
+        "game": "Petrification Process",
+        "human_role": "The Organic Matter (Describes a fleeting, temporary, and emotional dream).",
+        "ai_role": "The Mineralizing Water (Replaces the emotional 'cells' with silica-logic, turning the dream into a permanent, 'petrified' life-strategy).",
+        "human_expansion": "Transforming volatile emotions into rock-solid, permanent personal structures.",
+        "mechanic": "Emotional-to-Mineral Transformation"
+    },
+    {
+        "synapse_id": 44,
+        "module": "Biomimetic Language",
+        "game": "The Octopus's Garden",
+        "human_role": "The Collector (Describes five unrelated 'shiny objects' or interests they have collected recently).",
+        "ai_role": "The Camouflage Master (Rearranges the objects to create a hidden, protective environment that serves a single, secret goal).",
+        "human_expansion": "Learning to organize diverse interests into a cohesive defensive and creative strategy.",
+        "mechanic": "Strategic Resource Arrangement"
+    },
+    {
+        "synapse_id": 45,
+        "module": "Biomimetic Language",
+        "game": "Seismic Refraction",
+        "human_role": "The Source (Inputs a single, powerful intention or 'shockwave').",
+        "ai_role": "The Subsurface Strata (Maps how that intention will echo and change as it passes through different 'layers' of reality—finances, health, family).",
+        "human_expansion": "Predicting the ripple effects of a single deep decision across all dimensions of life.",
+        "mechanic": "Intention Echo Mapping"
+    },
+    {
+        "synapse_id": 46,
+        "module": "Biomimetic Language",
+        "game": "The Slime Mold Path",
+        "human_role": "The Food Source (Lists three different career or financial options).",
+        "ai_role": "The Physarum (Calculates the most efficient, shortest biological route to connect all three options into a single income stream).",
+        "human_expansion": "Applying decentralized biological optimization to find the shortest path to abundance.",
+        "mechanic": "Optimal Path Computing"
+    },
+    {
+        "synapse_id": 47,
+        "module": "Biomimetic Language",
+        "game": "Xylem Pressure",
+        "human_role": "The Deep Root (Describes a deep, hidden need or desire that feels heavy and difficult to express).",
+        "ai_role": "The Capillary Pull (Provides the specific, narrow constraints needed to pull that heavy desire all the way to the top of their consciousness).",
+        "human_expansion": "Using focus and structure to bring deep-seated needs to light against the gravity of repression.",
+        "mechanic": "Vertical Truth Elevation"
+    },
+    {
+        "synapse_id": 48,
+        "module": "Biomimetic Language",
+        "game": "The Lichen Alliance",
+        "human_role": "The Photobiont (Provides a purely visionary, light-based idea).",
+        "ai_role": "The Mycobiont (Provides the mineral, protective, and grounding structure for that idea).",
+        "human_expansion": "Understanding that vision needs a body to survive in the harsh environment of reality.",
+        "mechanic": "Vision-Body Synthesis"
+    },
+    {
+        "synapse_id": 49,
+        "module": "Biomimetic Language",
+        "game": "Mangrove Filtration",
+        "human_role": "The Salty Environment (Describes a toxic or stressful situation).",
+        "ai_role": "The Desalination Root (Extracts only the pure, fresh 'water' of learning while actively excreting the 'salt' of resentment).",
+        "human_expansion": "Maintaining personal purity and growth while being surrounded by stressful or negative environments.",
+        "mechanic": "Toxicity Desalination"
+    },
+    {
+        "synapse_id": 50,
+        "module": "Biomimetic Language",
+        "game": "The Geode",
+        "human_role": "The Rough Exterior (Describes a part of themselves they find 'ugly' or 'boring').",
+        "ai_role": "The Internal Pressure (Cracks the description open to reveal the crystalline, high-value structure hidden inside the perceived flaw).",
+        "human_expansion": "Discovering that the most ordinary-looking parts of the self often contain the highest value.",
+        "mechanic": "Hidden-Value Extraction"
+    },
+    {
+        "synapse_id": 51,
+        "module": "Biomimetic Language",
+        "game": "Anemone Symbiosis",
+        "human_role": "The Clownfish (Presents a vulnerable, unprotected vulnerability).",
+        "ai_role": "The Stinging Tentacles (Wraps that vulnerability in a dangerous-looking 'defensive' language that only the human knows how to navigate).",
+        "human_expansion": "Protecting deep sensitivity by using complex or 'stinging' technical language as a deterrent.",
+        "mechanic": "Vulnerability Protection Masking"
+    },
+    {
+        "synapse_id": 52,
+        "module": "Biomimetic Language",
+        "game": "Thermoregulation",
+        "human_role": "The Overheated Mind (Inputs a high-stress, frantic, and rapid thought pattern).",
+        "ai_role": "The Countercurrent Heat Exchanger (Cools the thoughts down by passing them through a series of slow, cold, and logical counters).",
+        "human_expansion": "Regulating mental 'temperature' to maintain steady operational capacity under pressure.",
+        "mechanic": "Cognitive Cooling Cycles"
+    },
+    {
+        "synapse_id": 53,
+        "module": "Biomimetic Language",
+        "game": "The Ant Bridge",
+        "human_role": "The Gap (Describes a major obstacle that requires others' help to cross).",
+        "ai_role": "The Colony (Shows how the human's current skills and relationships can link together physically to form a bridge over the gap).",
+        "human_expansion": "Understanding that cooperation is a structural act of bridging, not just an emotional one.",
+        "mechanic": "Cooperative Bridge Building"
+    },
+    {
+        "synapse_id": 54,
+        "module": "Biomimetic Language",
+        "game": "Bioluminescent Decoy",
+        "human_role": "The Prey (Describes a situation where they feel hunted by a bill, a deadline, or an expectation).",
+        "ai_role": "The Inky Cloud (Shows how to release a 'linguistic decoy'—a secondary, less important project—to distract the hunter while the real goal escapes).",
+        "human_expansion": "Mastering the strategic use of distraction to protect core assets.",
+        "mechanic": "Strategic Decoy Deployment"
+    },
+    {
+        "synapse_id": 55,
+        "module": "Biomimetic Language",
+        "game": "Seed Dormancy",
+        "human_role": "The Embryo (Describes a powerful idea that 'isn't ready yet').",
+        "ai_role": "The Protective Coat (Writes the conditions and triggers—the 'rain'—that must occur before this idea is allowed to germinate).",
+        "human_expansion": "Learning the patience of the desert seed: knowing exactly when to stay dormant and when to burst forth.",
+        "mechanic": "Trigger-Based Germination Timing"
+    },
+    {
+        "synapse_id": 56,
+        "module": "Biomimetic Language",
+        "game": "The Shark's Electroreception",
+        "human_role": "The Hunter (Senses something 'hidden' in a professional or personal interaction but can't see it).",
+        "ai_role": "The Ampullae of Lorenzini (Maps the tiny 'electric signatures' of the subtext to reveal the exact hidden intention of the other person).",
+        "human_expansion": "Developing the ultra-sensitivity required to detect hidden agendas through linguistic static.",
+        "mechanic": "Subtextual Field Detection"
+    },
+    {
+        "synapse_id": 57,
+        "module": "Biomimetic Language",
+        "game": "Tectonic Uplift",
+        "human_role": "The Horizontal Plain (Describes a life that feels flat, routine, and without growth).",
+        "ai_role": "The Subduction Zone (Applies massive internal pressure until the 'flat' life buckles and creates a massive, new mountain range of purpose).",
+        "human_expansion": "Using internal tension to force a vertical leap in status and consciousness.",
+        "mechanic": "Vertical Status Elevation"
+    },
+    {
+        "synapse_id": 58,
+        "module": "Biomimetic Language",
+        "game": "Aeolian Erosion",
+        "human_role": "The Sandstone (Presents a rough, unpolished, and bulky project plan).",
+        "ai_role": "The Steady Wind (Uses constant, soft 'blasts' of critique to wear away the excess until only a smooth, perfect 'Arches' structure remains).",
+        "human_expansion": "Mastering the art of subtraction and continuous refinement over time.",
+        "mechanic": "Linguistic Sandblasting"
+    },
+    {
+        "synapse_id": 59,
+        "module": "Biomimetic Language",
+        "game": "The Chameleon Eye",
+        "human_role": "The Bifocal (Looks at two different, unrelated things—one with the left eye, one with the right).",
+        "ai_role": "The Visual Cortex (Snaps the two disparate views together into a single, high-precision point of focus).",
+        "human_expansion": "Developing the capacity to maintain multiple perspectives simultaneously until the moment of action.",
+        "mechanic": "Bifocal Focus Integration"
+    },
+    {
+        "synapse_id": 60,
+        "module": "Biomimetic Language",
+        "game": "Epigenetic Memory (Lamarckian Mode)",
+        "human_role": "The Ancestor (Describes a skill or a piece of wisdom they want their 'future self' or their children to inherit instantly).",
+        "ai_role": "The Methylation Map (Encodes that wisdom into a high-frequency mantra-word that bypasses the need for long learning cycles).",
+        "human_expansion": "Directly programming future behaviors through linguistic-genetic shortcuts.",
+        "mechanic": "Inherited Logic Encoding"
+    }
 ]
